@@ -1,5 +1,5 @@
 
-import { _decorator, Component, Node, Prefab, instantiate, math, Vec3, BoxCollider, macro, Label, Animation } from 'cc';
+import { Animation, BoxCollider, Component, Label, Node, Prefab, Vec3, _decorator, macro, math } from 'cc';
 import { Bullet } from '../bullet/Bullet';
 import { BulletProp } from '../bullet/BulletProp';
 import { EnemyPlane } from '../plane/EnemyPlane';
